@@ -1,1 +1,1 @@
-0-hello_world
+script that displays a confused smiley "(Ôo)
